@@ -1,4 +1,4 @@
-<h1>Hi i'm FakeJoker.</h1>
+<h1>Hi I'm FakeJoker.</h1>
 
 <h2>About me:</h2>
 
