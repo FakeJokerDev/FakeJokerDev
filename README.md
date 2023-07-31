@@ -12,7 +12,7 @@
 <b>👨‍💻・ 𝗝𝘂𝗻𝗶𝗼𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗟𝗨𝗔, 𝗖𝗦𝗦, 𝗛𝗧𝗠𝗟, 𝗖++</b></br>
 <b>🔧・𝗜 𝘀𝘁𝘂𝗱𝘆 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗮 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</b></br>
 <b>🗣️・𝗜 𝘀𝗽𝗲𝗮𝗸 𝗜𝘁𝗮𝗹𝗶𝗮𝗻, 𝗙𝗿𝗲𝗻𝗰𝗵 𝗮𝗻𝗱 𝗘𝗻𝗴𝗹𝗶𝘀𝗵</b></br>
-<b>Here I Relase Script For Free</b></br>
+<b>🎁・Here I Relase Script For Free</b></br>
 <i>Stay Tuned... 😉</b></br>
 
 
