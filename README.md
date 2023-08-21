@@ -2,7 +2,7 @@
 
 <h2>About me:</h2>
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=informational&link=https://allmylinks.com/FakeJoker)](https://allmylinks.com/FakeJoker)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=informational&link=https://fakejoker.it)](https://fakejoker.it)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/KpB7g2HEPj)](https://discord.gg/KpB7g2HEPj)
 [![GitHub followers](https://img.shields.io/github/followers/fakejokerdev?label=Follow&style=social)](https://github.com/fakejokerdev)
 ![](https://komarev.com/ghpvc/?username=FakeJokerDev&label=GitHub_Views&color=red)
